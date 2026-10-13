@@ -1,123 +1,77 @@
- <!-- Typing animation -->
-<h1 align="center">Hi 👋, I'm Saee Salunke</h1>
+# Hey, I'm Saee Salunke!
 
-<h3 align="center">💻 Computer Engineering Student | Aspiring Software Developer | Tech Enthusiast</h3>
+<h3 align="center">✨ Aspiring Software Engineer | Computer Engineering Student ✨</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9B5DE5&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Building+Projects+with+Code;Exploring+AI%2C+Web+Development+%26+Cloud;Learning+Something+New+Every+Day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=B388FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;Building+Cool+Things+with+Code+%F0%9F%92%BB;Exploring+AI%2C+Web+Dev+%26+Cloud+%E2%98%81%EF%B8%8F;Dream+Big.+Code+Bigger.+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Saee2005">
-    <img src="https://img.shields.io/badge/GitHub-Saee2005-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://linkedin.com/in/saeesalunke">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:saeesalunke2005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/Code-Passionately-9B5DE5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Build-Creatively-00BBF9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learn-Always-F15BB5?style=for-the-badge" />
 </p>
 
 ---
 
-## 💫 About Me
+##  About Me
 
-- 🎓 Pursuing **B.Tech in Computer Engineering** at Sanjivani College of Engineering.
-- 💡 Passionate about software development, problem-solving, and emerging technologies.
-- 🌱 Exploring **AI/ML, full-stack development, cloud computing, and sustainable computing**.
-- 🛠️ Love building projects that solve real-world problems.
-- 🎯 Working towards becoming a skilled software engineer.
-- ♟️ Hobbies: Playing chess and painting.
+🎓 Computer Engineering student.
+
+💻 Interested in software development, AI/ML, and full-stack technologies.
+
+🌱 Learning, experimenting, and building projects that solve real problems.
+
+♟️ Chess lover | 🎨 Painting enthusiast | 🚀 Lifelong learner
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ My Tech Universe
 
-### 👩‍💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,php" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css,react,fastapi,flask,mysql,postgres,docker,aws,git,github&perline=8" />
 </p>
-
-### 🌐 Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,flask,fastapi,spring" />
-</p>
-
-### 🗄️ Databases & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,docker,aws,linux,git,github,vscode,postman" />
-</p>
-
-### 📊 Data Science & Machine Learning
-
-`Python` · `Pandas` · `NumPy` · `Scikit-learn` · `Matplotlib`
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌱 GreenSched — Carbon-Aware Workload Scheduling
-A sustainable computing framework that schedules workloads across edge nodes using carbon intensity, resource utilization, and latency.
+### 🌿 GreenSched
+Carbon-aware workload scheduling for sustainable edge computing.
 
-**Tech:** Python · Microservices · React · PostgreSQL · RabbitMQ · Docker
+`Python` `Microservices` `React` `PostgreSQL` `RabbitMQ` `Docker`
 
-### 🍲 Recipe Recommendation System
-A Python-based project that recommends recipes to help users discover meals.
+### 🍲 Recipe Recommender System
+A Python-based application for discovering and recommending recipes.
 
-[![View Project](https://img.shields.io/badge/View_Repository-Recipe_Recommender-8A2BE2?style=for-the-badge&logo=github)](https://github.com/Saee2005/Recipe_Recommender_System)
-
-### 🏡 Real Estate Web Scraping System
-A data extraction project focused on collecting real estate information from websites.
-
-[![View Project](https://img.shields.io/badge/View_Repository-Real_Estate_Scraper-00A896?style=for-the-badge&logo=github)](https://github.com/Saee2005/Real-Estate-Web-Scraping-Data-Extraction-System)
-
-### 🛍️ Optical Shop Website
-A web-based optical shop application built with PHP and MySQL.
-
-[![View Project](https://img.shields.io/badge/View_Repository-Optical_Shop-FF6B6B?style=for-the-badge&logo=github)](https://github.com/Saee2005/Opticals_website)
+[🔗 Explore my repositories](https://github.com/Saee2005?tab=repositories)
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 My GitHub Universe
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Saee2005&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saee2005&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Saee2005&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Saee2005&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saee2005&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🏆 Achievements & Learning
-
-- ⭐ HackerRank achievements in Problem Solving, C, C++, and DBMS.
-- 🏅 Participated in the SheInspires Hackathon.
-- 📚 Continuously improving data structures, algorithms, and software engineering skills.
-
----
-
-## 🤝 Let's Connect!
+## 💌 Let's Connect
 
 <p align="center">
   <a href="https://github.com/Saee2005">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://linkedin.com/in/saeesalunke">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/GitHub-Visit_My_Profile-9B5DE5?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 <p align="center">
-  💜 <b>Code. Create. Learn. Repeat.</b> 💜
+  <i>Turning ideas into code, one project at a time.</i>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9B5DE5,50:00BBF9,100:F15BB5&height=120&section=footer" width="100%" />
 </p>
