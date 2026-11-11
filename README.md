@@ -1,156 +1,191 @@
-# Hi, I'm Saee Salunke
+<!--
+  ╔══════════════════════════════════════════════╗
+       SAEe SALUNKE | DEVELOPER PORTFOLIO
+  ╚══════════════════════════════════════════════╝
+-->
 
-### `Computer Engineering Student | Aspiring Software Engineer`
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:0F0720,40:6D28D9,75:C084FC,100:EC4899&text=SAEE%20SALUNKE&fontSize=65&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn&stroke=C084FC&strokeWidth=1" width="100%" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=SAEE%20SALUNKE&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20IN%20THE%20MAKING&descAlignY=58&descSize=17&animation=twinkling&color=0:090014,30:30105F,65:7C3AED,100:06B6D4"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=700&color=C084FC&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=60&lines=Aspiring+Software+Engineer+%F0%9F%9A%80;Building+Ideas+Into+Reality+%F0%9F%92%BB;Exploring+Artificial+Intelligence+%F0%9F%A4%96;Crafting+Full+Stack+Applications+%E2%9C%A8;Learning.+Building.+Growing.+%F0%9F%8C%B1" alt="Animated typing introduction" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Saee2005&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Saee2005?label=FOLLOWERS&style=for-the-badge&color=EC4899" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=700&color=A78BFA&center=true&vCenter=true&width=750&lines=Hello%2C+World!+I'm+Saee+%F0%9F%91%8B;I+Build.+I+Experiment.+I+Innovate.;AI+%2B+Software+Engineering+%2B+Cloud;Turning+Ideas+Into+Intelligent+Solutions;Future+Engineer.+Present+Creator." />
 
----
+<br/><br/>
 
-## 🌌 About Me
+<a href="https://github.com/Saee2005">
+<img src="https://img.shields.io/badge/GitHub-My%20Universe-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=Saee2005&style=for-the-badge&color=0891B2&label=VISITORS"/>
 
-```yaml
-name: Saee Salunke
-role: Computer Engineering Student
-graduation: 2027
-interests:
-  - Software Development
-  - Artificial Intelligence & Machine Learning
-  - Full Stack Development
-  - Cloud Computing
-currently:
-  - Building practical software projects
-  - Exploring new technologies
-  - Improving problem-solving skills
-hobbies:
-  - Chess ♟️
-  - Painting 🎨
-  - Exploring new ideas 💡
-```
-
-> "I believe great software starts with curiosity and grows through consistent learning."
+</div>
 
 ---
 
-## ⚡ Tech Universe
+<h2 align="center">✦ THE DEVELOPER BEHIND THE CODE ✦</h2>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css,react&perline=8&theme=dark" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,spring,mysql,postgres,docker,aws,linux&perline=8&theme=dark" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,selenium,figma&perline=8&theme=dark" />
-</p>
+<div align="center">
+
+### Computer Engineering Student | Aspiring Software Engineer
+
+*Curiosity drives me. Code empowers me. Innovation inspires me.*
+
+</div>
+
+I'm Saee, a Computer Engineering student passionate about building technology that solves practical problems.
+
+I enjoy exploring the intersection of **Artificial Intelligence, Software Engineering, Full-Stack Development, and Cloud Computing.**
+
+- 🔭 Building: Intelligent and scalable software systems
+- 🌱 Exploring: AI/ML, backend engineering and cloud technologies
+- 🧠 Improving: Data structures, algorithms and problem-solving
+- 🎯 Goal: Become an impactful software engineer
+- ♟️ Beyond code: Chess, painting and creative thinking
 
 ---
 
-## 🚀 Featured Projects
+<h2 align="center">⚡ MY TECH ARSENAL</h2>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
+
+### PROGRAMMING LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js&theme=dark" />
+
+### FRONTEND & BACKEND
+
+<img src="https://skillicons.dev/icons?i=html,css,react,fastapi,flask,spring&theme=dark" />
+
+### DATABASES & CLOUD
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,docker,aws,linux&theme=dark" />
+
+### TOOLS & WORKFLOW
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,selenium&theme=dark" />
+
+</div>
+
+---
+
+<h2 align="center">🚀 ENGINEERING IN ACTION</h2>
+
+<div align="center">
 
 ### 🌿 GreenSched
+**CARBON-AWARE INTELLIGENT WORKLOAD SCHEDULING**
 
-**Carbon-Aware Intelligent Workload Scheduling**
+<img src="https://img.shields.io/badge/DOMAIN-EDGE%20COMPUTING-0891B2?style=flat-square"/>
+<img src="https://img.shields.io/badge/FOCUS-SUSTAINABILITY-22C55E?style=flat-square"/>
 
-A sustainable edge-computing framework that schedules workloads based on carbon intensity, resource utilization and latency.
+A carbon-aware scheduling framework that intelligently distributes workloads across edge nodes by considering carbon intensity, CPU utilization, and latency.
 
-**Tech Stack:**
-`Python` `React` `PostgreSQL` `RabbitMQ` `Docker` `Microservices`
+`Python` `React` `Microservices` `PostgreSQL` `RabbitMQ` `Docker`
 
-</td>
-<td width="50%" valign="top">
+---
 
-### 🍲 Recipe Recommender
+### 📰 Fake News Detection
+**INTELLIGENT NEWS CLASSIFICATION**
 
-**Smart Recipe Recommendation System**
+An ML and NLP-based application designed to identify potentially misleading news content through text classification.
 
-A Python-based application designed to help users discover recipes through intelligent recommendations.
-
-**Tech Stack:**
-`Python` `Pandas` `Machine Learning`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏡 Mutual Fund Recommendation
-
-**Data-Driven Investment Recommendation**
-
-A data-driven project focused on analyzing mutual fund information and generating recommendations.
-
-**Tech Stack:**
-`Python` `Pandas` `Machine Learning`
-
-</td>
-<td width="50%" valign="top">
-
-### 📰 Fake News Detector
-
-**Intelligent News Classification**
-
-An application that uses machine learning and NLP techniques to classify news content.
-
-**Tech Stack:**
 `Python` `FastAPI` `Machine Learning` `NLP`
 
-</td>
-</tr>
-</table>
+---
 
-<p align="center">
-  <a href="https://github.com/Saee2005?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+### 🍲 Recipe Recommender
+**SMART RECIPE DISCOVERY**
+
+A Python-based recommendation application that helps users explore recipes through data-driven recommendations.
+
+`Python` `Pandas` `Recommendation Systems`
 
 ---
 
-## 📊 GitHub Analytics
+### 📈 Mutual Fund Recommendation
+**DATA-DRIVEN FINANCIAL INSIGHTS**
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Saee2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=EC4899&text_color=FFFFFF&rank_icon=github" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saee2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=FFFFFF" />
-</p>
+A project focused on processing and analyzing mutual fund information to generate useful recommendations.
 
-<p align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Saee2005&theme=tokyonight&hide_border=true&background=0D1117&ring=C084FC&fire=EC4899&currStreakLabel=C084FC" />
-</p>
+`Python` `Pandas` `Data Analysis`
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/Saee2005?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-## 🌐 Let's Connect
+<h2 align="center">📊 THE GITHUB CONTROL ROOM</h2>
 
-<p align="center">
-  <a href="https://github.com/Saee2005">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%E2%9C%A8;Let's+build+something+amazing+together!+%F0%9F%9A%80;Keep+Learning.+Keep+Creating.+%F0%9F%92%9C" />
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Saee2005&show_icons=true&hide_border=true&bg_color=090014&title_color=A78BFA&icon_color=22D3EE&text_color=E2E8F0&rank_icon=github"/>
 
-<p align="center">
-  <i>「 Turning curiosity into code, and code into possibilities. 」</i>
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saee2005&layout=compact&hide_border=true&bg_color=090014&title_color=A78BFA&text_color=E2E8F0"/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:C084FC,100:6D28D9&height=130&section=footer&animation=twinkling" width="100%" />
-</p>
+<br/><br/>
+
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Saee2005&hide_border=true&background=090014&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=E2E8F0&dates=94A3B8"/>
+
+</div>
+
+---
+
+<h2 align="center">🏆 ACHIEVEMENTS & CONTRIBUTIONS</h2>
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Saee2005&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=6"/>
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Saee2005&bg_color=090014&color=A78BFA&line=22D3EE&point=FFFFFF&area=true&hide_border=true&custom_title=MY%20CODING%20JOURNEY"/>
+
+</div>
+
+---
+
+<h2 align="center">🐍 THE CONTRIBUTION TRAIL</h2>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Saee2005/Saee2005/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation"/>
+
+</div>
+
+---
+
+<h2 align="center">🌐 LET'S CONNECT & CREATE</h2>
+
+<div align="center">
+
+<a href="https://github.com/Saee2005">
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+**Open to learning, collaborating and building meaningful things.**
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Think+Beyond+The+Code.;Build+Beyond+The+Ordinary.;The+Best+Projects+Start+With+Curiosity." />
+
+<br/>
+
+*Code with purpose. Create with passion. Grow without limits.*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:06B6D4,40:7C3AED,75:30105F,100:090014&animation=twinkling"/>
+
+</div>
