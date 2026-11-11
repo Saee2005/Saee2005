@@ -132,22 +132,6 @@ An application that uses machine learning and NLP techniques to classify news co
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saee2005&theme=discord&no-frame=true&no-bg=true&margin-w=10&column=6" width="100%" />
-</p>
-
----
-
-## 🐍 Contribution Journey
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Saee2005/Saee2005/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" width="100%" />
-</p>
-
----
-
 ## 🌐 Let's Connect
 
 <p align="center">
