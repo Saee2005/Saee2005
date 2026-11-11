@@ -92,16 +92,8 @@ An ML and NLP-based application designed to identify potentially misleading news
 
 `Python` `FastAPI` `Machine Learning` `NLP`
 
----
 
-### 🍲 Recipe Recommender
-**SMART RECIPE DISCOVERY**
 
-A Python-based recommendation application that helps users explore recipes through data-driven recommendations.
-
-`Python` `Pandas` `Recommendation Systems`
-
----
 
 ### 📈 Mutual Fund Recommendation
 **DATA-DRIVEN FINANCIAL INSIGHTS**
