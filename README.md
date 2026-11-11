@@ -122,45 +122,6 @@ A project focused on processing and analyzing mutual fund information to generat
 
 ---
 
-<h2 align="center">📊 THE GITHUB CONTROL ROOM</h2>
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Saee2005&show_icons=true&hide_border=true&bg_color=090014&title_color=A78BFA&icon_color=22D3EE&text_color=E2E8F0&rank_icon=github"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saee2005&layout=compact&hide_border=true&bg_color=090014&title_color=A78BFA&text_color=E2E8F0"/>
-
-<br/><br/>
-
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Saee2005&hide_border=true&background=090014&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=E2E8F0&dates=94A3B8"/>
-
-</div>
-
----
-
-<h2 align="center">🏆 ACHIEVEMENTS & CONTRIBUTIONS</h2>
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Saee2005&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=6"/>
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Saee2005&bg_color=090014&color=A78BFA&line=22D3EE&point=FFFFFF&area=true&hide_border=true&custom_title=MY%20CODING%20JOURNEY"/>
-
-</div>
-
----
-
-<h2 align="center">🐍 THE CONTRIBUTION TRAIL</h2>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Saee2005/Saee2005/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation"/>
-
-</div>
-
----
 
 <h2 align="center">🌐 LET'S CONNECT & CREATE</h2>
 
